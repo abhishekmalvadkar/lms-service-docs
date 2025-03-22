@@ -1,2 +1,2 @@
 # lms-service-docs
-Link Management System related tickets and docs
+Link Management System related docs
